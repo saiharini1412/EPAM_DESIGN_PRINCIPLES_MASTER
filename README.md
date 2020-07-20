@@ -1,1 +1,1 @@
-# ChinniLakshmiPrathyusha_Design_principles
+design principles
